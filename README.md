@@ -1,4 +1,4 @@
-# Gerador de Senhas 💡🔐
+<h1 align="center">Gerador de Senhas 💡🔐</h1>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -20,6 +20,7 @@ Projeto simples para gerar senhas aleatórias com comprimento personalizado. Ide
 
 - Python
 - Bibliotecas:
+  
       os
       random
       time (importando a função sleep)
@@ -31,11 +32,11 @@ Antes de executar o Gerador de Senhas, certifique-se de ter o Python 3 instalado
 
 1. Clone este repositório em sua máquina local.
    ```bash
-   git clone https://github.com/joseffermax/Calculadora-Simples.git
+    git clone https://github.com/joseffermax/Gerador-de-Senhas.git
 
 2. Navegue até o diretório do projeto.
    ```bash
-   cd Calculadora-Simples
+   cd Gerador-de-Senhas
 
 3. Instale as dependências necessárias.
    ```bash
@@ -43,9 +44,13 @@ Antes de executar o Gerador de Senhas, certifique-se de ter o Python 3 instalado
 
 ## Como Usar▶️
 
-Abra o terminal e navegue até o diretório do projeto.
+1 - Abra o terminal e navegue até o diretório do projeto.
 
-Execute o arquivo gerador_senhas.py.
+2- Execute o arquivo gerador_senhas.py.
+
+    python Gerador_de_Senhas.py
+   
+Agora você pode utilizar o Gerador de Senhas para criar senhas aleatórias. Siga as instruções exibidas no terminal para especificar a quantidade de senhas a serem geradas e o comprimento desejado. O programa irá processar as senhas e exibi-las no terminal. Você também terá a opção de gerar novas senhas ou sair do programa.
 
 ## Contribuição 🤝
 
