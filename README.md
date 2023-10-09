@@ -19,12 +19,7 @@ Projeto simples para gerar senhas aleatórias com comprimento personalizado. Ide
 ## Tecnologias utilizadas 🖥️
 
 - Python
-- Bibliotecas:
-- 
-      os
-      random
-      time (importando a função sleep)
-      colorama (importando o estilo Style)
+- Bibliotecas: os, random, time (importando a função sleep) e colorama (importando o estilo Style)
 
 ## Instalação 📥 
 
